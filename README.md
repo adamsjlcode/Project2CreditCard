@@ -1,6 +1,7 @@
 # Credit Card Class
 ## Purpose
 ![](media/9bbdc7e084304163e44b2530af76b8f7.jpg)
+
 This project is an extension of the **Credit Card** project. It uses the classes
 that were used and/or developed for the previous project, and adds a
 *CreditCardList* class. The *CreditCardList* class will encapsulate a **private
